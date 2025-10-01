@@ -88,7 +88,7 @@ export default function Home() {
                     colSpan="5"
                     className="text-center py-6 text-gray-500 italic"
                   >
-                    No students added yet
+                    No students added so far
                   </td>
                 </tr>
               )}
